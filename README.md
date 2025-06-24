@@ -9,8 +9,8 @@ This project provides example Python scripts (`test.py` and `test2.py`) to work 
 ### 1. Install RealSense ROS 2 Package
 
 Follow the official ROS 2 installation guide for RealSense:
-
-👉 https://github.com/IntelRealSense/realsense-ros2
+[
+👉(https://github.com/IntelRealSense/librealsense)
 
 Make sure the camera is working correctly in ROS 2 (e.g., topics are publishing).
 
