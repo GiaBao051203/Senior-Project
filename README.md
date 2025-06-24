@@ -23,6 +23,8 @@ Copy your `test.py` and `test2.py` files to the following directory:
 ```bash
 <path-to-librealsense>/wrappers/python/examples/
 
- run 
+---
+
+### 3. Copy Python Scripts
 python3 ~/librealsense/wrappers/python/examples/test.py
 
